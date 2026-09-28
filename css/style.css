@@ -323,7 +323,7 @@ body.js .reveal.in-view{ opacity: 1; transform: none; }
   flex-wrap: wrap;
   gap: 20px;
 }
-.footer-logo{ height: 24px; filter: brightness(0) invert(1); opacity: 0.85; }
+.footer-logo{ height: 24px; opacity: 0.85; }
 .footer-inner .social-icon{ background: rgba(255,255,255,0.08); color: rgba(255,255,255,0.7); }
 .footer-inner .social-row{ margin-top: 0; }
 
